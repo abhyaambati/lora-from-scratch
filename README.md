@@ -78,14 +78,6 @@ python eval_metrics.py
 
 ---
 
-## 🤝 Contributors
-
-- **Abhya Ambati** — Emory University  
-- **Rajiv Kalyan Chilla** — Independent Contributor
-
-
----
-
 ## 🙏 Acknowledgments
 
 This project was implemented independently using Hugging Face Transformers, Datasets, and Evaluate libraries.  
