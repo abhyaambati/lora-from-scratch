@@ -3,8 +3,6 @@
 This repository contains a **from-scratch PyTorch reimplementation of LoRA (Low-Rank Adaptation)** and its application to transformer fine-tuning. Unlike plug-and-play libraries like PEFT, this project manually injects low-rank matrices into attention layers of a transformer model — offering transparency, control, and extensibility.
 
 📝 **Paper submitted to arXiv — awaiting publication.**  
-📂 Project summary and plots included below.
-
 ---
 
 ## 🚀 Highlights
